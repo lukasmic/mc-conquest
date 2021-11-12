@@ -1,0 +1,90 @@
+export const lootDropsT1: string[] = [
+  'Nothing',
+  'Nothing',
+  'Nothing',
+  'Nothing',
+  'Nothing',
+  'Nothing',
+  'Nothing',
+  'Tier C Basic',
+  'Tier C Basic',
+  'Tier C Basic',
+  'Tier C Basic',
+  'Tier B Roll!',
+];
+
+export const lootDropsT1Plus: string[] = [
+  'Nothing',
+  'Nothing',
+  'Tier C Basic',
+  'Tier C Basic',
+  'Tier C Basic',
+  'Tier C Basic',
+  'Tier C Basic',
+  'Tier C Basic',
+  'Tier C Basic',
+  'Tier C Basic',
+  'Tier B Roll!',
+  'Tier B Roll!',
+];
+
+export const lootDropsT2: string[] = [
+  'Nothing',
+  'Tier C Basic',
+  'Tier C Basic',
+  'Tier C Basic',
+  'Tier C Basic',
+  'Tier B Roll',
+  'Tier B Roll',
+  'Tier B Roll',
+  'Tier B Roll',
+  'Tier B Roll',
+  'Tier B Roll',
+  'Tier A Roll!',
+];
+
+export const lootDropsT2Plus: string[] = [
+  'Nothing',
+  'Tier C Basic',
+  'Tier B Roll',
+  'Tier B Roll',
+  'Tier B Roll',
+  'Tier B Roll',
+  'Tier B Roll',
+  'Tier B Roll',
+  'Tier B Roll',
+  'Tier A Roll',
+  'Tier A Roll',
+  'Tier A Roll',
+  'TIER S ROLL!',
+];
+
+export const lootDropsT3: string[] = [
+  'Tier B Roll',
+  'Tier B Roll',
+  'Tier B Roll',
+  'Tier B Roll',
+  'Tier A Roll',
+  'Tier A Roll',
+  'Tier A Roll',
+  'Tier A Roll',
+  'Tier A Roll',
+  'Tier A Roll',
+  'TIER S ROLL!',
+  'TIER S ROLL!',
+];
+
+export const lootDropsT3Plus: string[] = [
+  'Tier A Roll',
+  'Tier A Roll',
+  'Tier A Roll',
+  'Tier A Roll',
+  'Tier A Roll',
+  'Tier A Roll',
+  'Tier A Roll',
+  'Tier A Roll',
+  'TIER S ROLL!',
+  'TIER S ROLL!',
+  'TIER S ROLL!',
+  'TIER S ROLL!',
+];
